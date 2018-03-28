@@ -1,0 +1,16 @@
+td,
+th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+.btn {
+	margin-left: 5px;
+}
+.input-group {
+	margin: 20px 0;
+}
+
+svg {
+	height: 150px;
+}
