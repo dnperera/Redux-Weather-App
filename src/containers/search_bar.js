@@ -37,7 +37,6 @@ class SearchBar extends Component {
 				/>
 				<span className="input-group-btn">
 					<button className="btn btn-success" type="submit">
-						{' '}
 						Submit
 					</button>
 				</span>
