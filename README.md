@@ -1,2 +1,17 @@
-# Redux-Weather-App
-Search 5day weather forecast by the city .This is a simple React &amp; Redux App with Axios
+# Redux-ForeCaster:
+
+App is desgined to display realtime wheather forecast for a given city in USA.
+![Screen view of current items](readme-images/Weather-App-Redux-View.jpg);
+
+## Motivation :
+
+To understand implementation of Redux.
+
+## Technology,Frameworks & APIs Used:
+
+React,Redux,CSS,HTML
+OpenWeather API, Google Map API
+
+### React Components Overview
+
+![Screen view of current items](readme-images/redux-weather-app-components.jpg);
